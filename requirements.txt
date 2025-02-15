@@ -1,0 +1,9 @@
+flask
+gunicorn
+pandas
+numpy
+chart.js
+requests
+alpaca-trade-api
+ib_insync
+tradingview_ta
